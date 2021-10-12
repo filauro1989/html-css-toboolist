@@ -94,14 +94,16 @@ ul {
     height: 1.5em;
     border-radius: 50%;
     vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .checkbox-done {
     border: 1.7px solid #A5DDD1;
-    background-image: url(../img/spunta-verde.jpg);
-    background-size: contain;
+    background-image: url(../img/spunta-verde.png);
+    background-size: 80%;
 }
 .checkbox-denied {
     border: 1.7px solid red;
     background-image: url(../img/spunta-rossa.png);
-    background-size: contain;
+    background-size: 60%;
 }
