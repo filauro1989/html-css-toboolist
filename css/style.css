@@ -81,9 +81,18 @@ ul {
     font-size: 1.2em;
 }
 
+/* checkbox  */
 .checkbox-round {
     width: 1.5em;
     height: 1.5em;
     border-radius: 50%;
     vertical-align: middle;
+}
+.checkbox-done {
     border: 1.7px solid #A5DDD1
+    
+}
+.checkbox-denied {
+    border: 1.7px solid red
+    
+}
