@@ -8,7 +8,17 @@ body {
     background-color: #F6F8F9;
 }
 
-.header-logo {
-    height: 5em;
+header {
+    height: 70px;
+    width: 100%;
     background-color: white;
+}
+
+.header-logo {
+    padding: 10px 0 10px 10px;
+    vertical-align: middle;
+}
+header h1 {
+    display: inline-block;
+    vertical-align: middle;
 }
