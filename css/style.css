@@ -19,6 +19,13 @@
 .background-orange{
     background-color: orange;
 }
+.background-pink{
+    background-color: pink;
+}
+.background-lgreen{
+    background-color: lightgreen;
+}
+
 .white-text{
     color: white;
 }
@@ -26,8 +33,8 @@
     border-style: none;
 }
 .rounded-highlight{
-    padding: 0.5em 0.9em;
-    border-radius: 13px;
+    padding: 0.4em 0.7em;
+    border-radius: 14px;
     color: white;
 }
 
@@ -89,10 +96,10 @@ ul {
     vertical-align: middle;
 }
 .checkbox-done {
-    border: 1.7px solid #A5DDD1
+    border: 1.7px solid #A5DDD1;
     
 }
 .checkbox-denied {
-    border: 1.7px solid red
+    border: 1.7px solid red;
     
 }
