@@ -3,15 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+.background-white{
+    background-color: white;
+}
 
 body { 
     background-color: #F6F8F9;
+    width: 100%;
 }
 
+/* header */
 header {
     height: 70px;
     width: 100%;
-    background-color: white;
 }
 
 .header-logo {
@@ -21,4 +25,10 @@ header {
 header h1 {
     display: inline-block;
     vertical-align: middle;
+}
+
+/* container */
+.container {
+    width: 70%;
+    margin: 2em auto;
 }
