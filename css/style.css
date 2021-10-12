@@ -32,3 +32,12 @@ header h1 {
     width: 70%;
     margin: 2em auto;
 }
+.button-container{
+    margin: 0 3em;
+}
+.container button {
+    height: 2em;
+    width: auto;
+    padding: 0 0.5em;
+    margin: 1em 0.1em 1em ;
+}
