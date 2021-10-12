@@ -3,11 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* background color */
 .background-white{
     background-color: white;
 }
 .background-blue{
     background-color: #47ADF1;
+}
+.background-purple{
+    background-color: purple;
+}
+.background-green{
+    background-color: green;
+}
+.background-orange{
+    background-color: orange;
 }
 .white-text{
     color: white;
@@ -39,6 +49,7 @@ header {
 header h1 {
     display: inline-block;
     vertical-align: middle;
+    font-size: 2.5em;
 }
 
 /* container */
@@ -66,6 +77,8 @@ header h1 {
 /* liste */
 ul {
     list-style-type: none;
+    line-height: 3em;
+    font-size: 1.2em;
 }
 
 .checkbox-round {
