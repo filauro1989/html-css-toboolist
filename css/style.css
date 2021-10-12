@@ -6,6 +6,15 @@
 .background-white{
     background-color: white;
 }
+.background-blue{
+    background-color: #47ADF1;
+}
+.white-text{
+    color: white;
+}
+.borderless {
+    border-style: none;
+}
 
 body { 
     background-color: #F6F8F9;
@@ -32,6 +41,7 @@ header h1 {
     width: 70%;
     margin: 2em auto;
 }
+/* buttons */
 .button-container{
     margin: 0 3em;
 }
@@ -40,4 +50,10 @@ header h1 {
     width: auto;
     padding: 0 0.5em;
     margin: 1em 0.1em 1em ;
+    border-radius: 3px;
+}
+.add-section-button{
+    color: lightgrey;
+    border: 1px solid lightgrey ;
+    background-color: white;
 }
